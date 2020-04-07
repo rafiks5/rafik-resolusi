@@ -1,4 +1,6 @@
 rencanabaru
 
 belajar web developer
+python
+machine
 dan terus lanjut sampai api
