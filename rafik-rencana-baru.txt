@@ -5,3 +5,5 @@ python
 machine
 dan terus lanjut sampai api
 mantap jiwa
+django
+web developer
